@@ -10,5 +10,5 @@
 
 ---
 ## :purple_heart: LINK :purple_heart:
-<a href="https://www.instagram.com/_yxxne/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFB6C1?style=plastic&logo=instagram&logoColor=000000"/>
-<a href="mailto:knyhoha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-C0C0C0?style=plastic&logo=gmail&logoColor=000000"/>
+<a href="https://www.instagram.com/_yxxne/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFB6C1?style=plastic&logo=instagram&logoColor=000000"/></a>
+<a href="mailto:knyhoha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-C0C0C0?style=plastic&logo=gmail&logoColor=000000"/></a>
