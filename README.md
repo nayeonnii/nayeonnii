@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=nayeonnii%20github&fontSize=70" />
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+!+I'm+studing+data+analysis.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+!+I'm+studying+data+analysis.)](https://git.io/typing-svg)
 
 ---
 ## :purple_heart: TOOL :purple_heart:
