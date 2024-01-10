@@ -12,3 +12,4 @@
 ## :purple_heart: LINK :purple_heart:
 <a href="https://www.instagram.com/_yxxne/" target="_blank"><img src="https://img.shields.io/badge/instagram-FFB6C1?style=plastic&logo=instagram&logoColor=000000"/></a>
 <a href="mailto:knyhoha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-C0C0C0?style=plastic&logo=gmail&logoColor=000000"/></a>
+<a href="https://www.notion.so/STUDY-61b4626281eb44f481429744354c07ad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-C0C0C0?style=plastic&logo=notion&logoColor=000000"/></a>
